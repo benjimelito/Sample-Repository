@@ -17,3 +17,17 @@ ul {
   display : none;
 }
 
+#white-button {
+	height: 4em;
+	width: 6em;
+	background-color: "white";
+}
+
+#hidden-paragraph {
+	display: none;
+}
+
+#number-button {
+	height: 4em;
+	width: 6em;
+}
