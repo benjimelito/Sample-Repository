@@ -1,0 +1,24 @@
+[
+	{
+		"link":"https://slickdeals.net/f/13339351-shrek-the-ultimate-collection-pre-purchase-blu-ray-digital-hd-24-99-via-amazon?src=frontpage",
+		"description":"Includes Shrek, Shrek 2, Shrek 3, etc...",
+		  "id":"shrek1203", "title":"Shrek: The Ultimate Collection Pre-Order (Blu-ray + Digital HD)",
+		"price":25,
+		"image_link":"https://static.slickdealscdn.com/attachment/8/6/6/3/0/8344528.attach",
+		"categories":["DVDs","movies","new-arrival","front-page"] },
+		{
+		"id":"petzl3496", "title":"Petzl Grigri 2 Rock Climbing Belay Device (various colors)",
+		"link":"https://slickdeals.net/f/13339513-petzl-grigri-2-49-89-at-rei-until-9-2?src=frontpage",
+		"description":"Available in gray, yellow, and turquoise",
+		"price":49.90,
+		"image_link":"https://static.slickdealscdn.com/attachment/2/2/3/8/0/0/5/5/8344693.attach",
+		"categories":["gear","climbing","new-arrival","front-page"] },
+		{
+		"id":"ceilingfan123", "title":"Build.com: 30% Off Hunter Ceiling Fans: 42 Low Profile IV",
+		"link":"https://slickdeals.net/f/13330201-build-com-30-off-hunter-ceiling-fans-42-low-profile-iv-56-more-free-s-h?src=frontpage",
+		"description":"42 Low Profile IV Flush Mount Indoor Ceiling Fan w/ 5 Reversible Blades",
+		"price":56,
+		"image_link":"https://static.slickdealscdn.com/attachment/3/5/3/1/8/3/4/8334718.attach",
+		"categories":["fans","home","new-arrival","front-page"] 
+	}
+]
