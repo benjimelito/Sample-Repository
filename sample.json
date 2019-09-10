@@ -31,5 +31,71 @@
 		"categories":["fans","home","new-arrival","front-page"],
 		"brand": "Kohl's",
 		"extra": "Sponsored" 
+	},
+	{
+		"link":"https://slickdeals.net/f/13321651-official-apple-2-meter-usb-c-charge-cable-14-free-store-pickup",
+		"description":"Official Apple USB-C",
+		"id":"cable1203",
+		"title":"Official Apple 2-Meter USB-C Charge Cable",
+		"price":"13.99",
+		"image_link":"https://slickdeals.net/forums/images/daImageHandler.php?threadId=13321651",
+		"categories":["tech","accessories"],
+		"brand": "Walmart",
+		"extra": "Free In Store Pickup" 
+	},
+	{
+		"id":"tea3496", 
+		"title":"12-Pack of 16.9oz Honest Tea Organic Fair Trade Peach Tea",
+		"link":"https://slickdeals.net/f/13361557-12-pack-of-16-9oz-honest-tea-organic-fair-trade-peach-tea-11-40-or-less-w-s-s-free-s-h-amazon",
+		"description":"Honestly, it's tea",
+		"price":"11.40",
+		"image_link":"https://slickdeals.net/forums/images/daImageHandler.php?threadId=13361557",
+		"categories":["drinks","tea","new-arrival"],
+		"brand": "Amazon",
+		"extra": "Free Shipping" 
+	},
+	{
+		"id":"ceilingfan123", 
+		"title":"AMD Ryzen 7 2700 CPU + 250GB HP EX900 + 3-Mo Xbox Game Pass",
+		"link":"https://slickdeals.net/f/13358035-amd-ryzen-7-2700-cpu-250gb-hp-ex900-m-2-nvme-ssd-3-months-xbox-game-pass-168-free-shipping",
+		"description":"Note, limit of 2 per customer. Xbox Game Pass Gift will be automatically added to your cart.",
+		"price":"168",
+		"image_link":"https://slickdeals.net/forums/images/daImageHandler.php?threadId=13358035",
+		"categories":["tech","gaming","new-arrival","front-page"],
+		"brand": "Newegg",
+		"extra": "Free Shipping" 
+	},
+	{
+		"link":"https://slickdeals.net/f/13362904-officially-licensed-breaking-bad-los-pollos-hermanos-apron-6-49-free-shipping",
+		"description":"Great for the kitchen",
+		"id":"bb3",
+		"title":"Breaking Bad Los Pollos Hermanos Yellow Apron",
+		"price":"6.50",
+		"image_link":"https://slickdeals.net/forums/images/daImageHandler.php?threadId=13362904",
+		"categories":["kitchen","TV","front-page"],
+		"brand": "The Daily Deal",
+		"extra": "Free Shipping" 
+	},
+	{
+		"id":"bp6", 
+		"title":"Avengers Marvel Black Panther Movie Black Panther Slash Claw",
+		"link":"https://slickdeals.net/f/13359430-avengers-marvel-black-panther-movie-black-panther-slash-claw-for-2-50",
+		"description":"Note, temporarily out of stock but can still be ordered.",
+		"price":"2.50",
+		"image_link":"https://static.slickdealscdn.com/attachment/2/2/0/5/3/8365480.attach",
+		"categories":["gear","movies","new-arrival","front-page"],
+		"brand": "Amazon",
+		"extra": "Free Shipping" 
+	},
+	{
+		"id":"food192", 
+		"title":"Blue Wilderness Grain-Free Dog/Cat Treats: 2oz Chicken & Salmon Cat Treat",
+		"link":"https://slickdeals.net/f/13359925-blue-wilderness-grain-free-dog-cat-treats-2oz-chicken-salmon-cat-treat-1-40-more",
+		"description":"Great treat for your friend",
+		"price":"1.40",
+		"image_link":"https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/8367307.attach",
+		"categories":["pets","home"],
+		"brand": "Amazon",
+		"extra": "Sponsored" 
 	}
 ]
