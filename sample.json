@@ -75,27 +75,5 @@
 		"categories":["kitchen","TV","front-page"],
 		"brand": "The Daily Deal",
 		"extra": "Free Shipping" 
-	},
-	{
-		"id":"bp6", 
-		"title":"Avengers Marvel Black Panther Movie Black Panther Slash Claw",
-		"link":"https://slickdeals.net/f/13359430-avengers-marvel-black-panther-movie-black-panther-slash-claw-for-2-50",
-		"description":"Note, temporarily out of stock but can still be ordered.",
-		"price":"2.50",
-		"image_link":"https://static.slickdealscdn.com/attachment/2/2/0/5/3/8365480.attach",
-		"categories":["gear","movies","new-arrival","front-page"],
-		"brand": "Amazon",
-		"extra": "Free Shipping" 
-	},
-	{
-		"id":"food192", 
-		"title":"Blue Wilderness Grain-Free Dog/Cat Treats: 2oz Chicken & Salmon Cat Treat",
-		"link":"https://slickdeals.net/f/13359925-blue-wilderness-grain-free-dog-cat-treats-2oz-chicken-salmon-cat-treat-1-40-more",
-		"description":"Great treat for your friend",
-		"price":"1.40",
-		"image_link":"https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/8367307.attach",
-		"categories":["pets","home"],
-		"brand": "Amazon",
-		"extra": "Sponsored" 
 	}
 ]
