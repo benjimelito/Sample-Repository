@@ -1,5 +1,16 @@
 [
 	{
+		"id":"ceilingfan123", 
+		"title":"Build.com: 30% Off Hunter Ceiling Fans: 42 Low Profile IV",
+		"link":"https://slickdeals.net/f/13330201-build-com-30-off-hunter-ceiling-fans-42-low-profile-iv-56-more-free-s-h?src=frontpage",
+		"description":"42 Low Profile IV Flush Mount Indoor Ceiling Fan w/ 5 Reversible Blades",
+		"price":"56",
+		"image_link":"https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/8346502.attach",
+		"categories":["fans","home","new-arrival","front-page"],
+		"brand": "Kohl's",
+		"extra": "Sponsored" 
+	},
+	{
 		"link":"https://slickdeals.net/f/13339351-shrek-the-ultimate-collection-pre-purchase-blu-ray-digital-hd-24-99-via-amazon?src=frontpage",
 		"description":"Includes Shrek, Shrek 2, Shrek 3, etc...",
 		"id":"shrek120",
@@ -20,17 +31,6 @@
 		"categories":["gear","climbing","new-arrival","front-page"],
 		"brand": "Amazon",
 		"extra": "Free Shipping" 
-	},
-	{
-		"id":"ceilingfan12", 
-		"title":"Brother HL-L2320D Monochrome Laser Printer",
-		"link":"https://slickdeals.net/f/13330201-build-com-30-off-hunter-ceiling-fans-42-low-profile-iv-56-more-free-s-h?src=frontpage",
-		"description":"42 Low Profile IV Flush Mount Indoor Ceiling Fan w/ 5 Reversible Blades",
-		"price":"56",
-		"image_link":"https://static.slickdealscdn.com/attachment/1/5/3/3/5/9/8327449.attach",
-		"categories":["fans","home","new-arrival","front-page"],
-		"brand": "Kohl's",
-		"extra": "Sponsored" 
 	},
 	{
 		"link":"https://slickdeals.net/f/13321651-official-apple-2-meter-usb-c-charge-cable-14-free-store-pickup",
@@ -88,14 +88,14 @@
 		"extra": "Free Shipping" 
 	},
 	{
-		"id":"foo92", 
-		"title":"$50 App Store & iTunes Gift Card (Email Delivery)",
-		"link":"https://slickdeals.net/f/13359925-blue-wilderness-grain-free-dog-cat-treats-2oz-chicken-salmon-cat-treat-1-40-more",
-		"description":"Great treat for your friend",
-		"price":"1.40",
-		"image_link":"https://static.slickdealscdn.com/attachment/1/8/1/9/9/0/8/1/8328148.attach",
-		"categories":["pets","home"],
-		"brand": "Amazon",
+		"id":"ceiling23", 
+		"title":"Build.com: 30% Off Hunter Ceiling Fans: 42 Low Profile IV",
+		"link":"https://slickdeals.net/f/13330201-build-com-30-off-hunter-ceiling-fans-42-low-profile-iv-56-more-free-s-h?src=frontpage",
+		"description":"42 Low Profile IV Flush Mount Indoor Ceiling Fan w/ 5 Reversible Blades",
+		"price":"56",
+		"image_link":"https://static.slickdealscdn.com/attachment/3/8/0/3/8/5/8/8346502.attach",
+		"categories":["fans","home","new-arrival","front-page"],
+		"brand": "Kohl's",
 		"extra": "Sponsored" 
 	}
 ]
