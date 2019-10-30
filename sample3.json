@@ -6,6 +6,7 @@
     "link": "https://www.levi.com/US/en_US/clothing/men/jeans/511-slim-fit-twill-mens-jeans/p/045112616",
     "image_link": "https://lsco.scene7.com/is/image/lsco/Levis/clothing/045110925-front-pdp.jpg?$grid_desktop_bottoms$",
     "price": "79.50",
+    "description": "Men's Jeans",
     "categories": ["Men's", "Jeans"]
   },
   {
@@ -15,6 +16,7 @@
     "link": "https://www.levi.com/US/en_US/apparel/clothing/bottoms/hi-ball-roll-mens-jeans/p/577830049",
     "image_link": "https://lsco.scene7.com/is/image/lsco/Levis/clothing/577830049-front-pdp.jpg?$grid_desktop_bottoms$",
     "price": "89.50",
+    "description": "Men's Jeans",
     "categories": ["Men's", "Jeans"]
   },
   {
@@ -24,6 +26,7 @@
     "link": "https://www.levi.com/US/en_US/clothing/women/shirts-blouses-tops/ultimate-western-shirt/p/589300010",
     "image_link": "https://lsco.scene7.com/is/image/lsco/Levis/clothing/589300010-front-pdp.jpg?$grid_desktop_full$",
     "price": "54.50",
+    "description": "Men's Shirt",
     "categories": ["Women's", "Shirts"]
   },
   {
@@ -33,6 +36,7 @@
     "link": "https://www.levi.com/US/en_US/clothing/unisex/shirts/levis-logo-perfect-tee-shirt/p/173690053",
     "image_link": "https://lsco.scene7.com/is/image/lsco/Levis/clothing/173690053-front-pdp.jpg?$grid_desktop_full$",
     "price": "25.00",
+    "description": "Men's Shirt",
     "categories": ["Women's", "Shirts"]
   },
   {
@@ -42,6 +46,7 @@
     "link": "https://www.levi.com/US/en_US/apparel/clothing/tops/sleeveless-aubrey-dress/p/689860003",
     "image_link": "https://lsco.scene7.com/is/image/lsco/Levis/clothing/689860003-front-pdp.jpg?$grid_desktop_full$",
     "price": "79.50",
+    "description": "Women's Shirt",
     "categories": ["Women's", "Dresses"]
   }
 ]
