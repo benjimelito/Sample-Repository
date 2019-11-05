@@ -1,0 +1,39 @@
+[
+	{
+		"$title":"Intro to Javascript",
+		"$price":"25.99",
+		"$id": "123",
+		"$link": "www.google.com",
+		"image_link": "https://news.harvard.edu/wp-content/uploads/2012/05/edx_logo_col_rgb_final.jpg",
+		"description": "Test Description",
+		"categories": ["programming", "beginner"],
+		"selfPaced": "false",
+		"nextCourseID": "456",
+		"sections": 2,
+		"programID": "9"
+	},
+	{
+		"$title":"Intermediate Javascript",
+		"$price":"25.99",
+		"$id": "456",
+		"$link": "www.google.com",
+		"image_link": "https://news.harvard.edu/wp-content/uploads/2012/05/edx_logo_col_rgb_final.jpg",
+		"description": "Test Description",
+		"categories": ["programming", "intermediate"],
+		"selfPaced": "false",
+		"nextCourseID": "789",
+		"sections": 3,
+		"programID": "9"
+	},
+	{
+		"$title":"Basic Lockpicking",
+		"$price":"35.00",
+		"$id": "987",
+		"$link": "www.google.com",
+		"image_link": "https://news.harvard.edu/wp-content/uploads/2012/05/edx_logo_col_rgb_final.jpg",
+		"description": "Test Description",
+		"categories": ["beginner"],
+		"sections": 2,
+		"selfPaced": "true",
+	},
+]
