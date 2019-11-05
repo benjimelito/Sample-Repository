@@ -10,7 +10,9 @@
 		"selfPaced": "false",
 		"nextCourseID": "456",
 		"sections": 2,
-		"programID": "9"
+		"programID": "9",
+		"StartDate" : "2019-09-10",
+    	"EndDate": "2019-09-17",
 	},
 	{
 		"$title":"Intermediate Javascript",
@@ -23,7 +25,9 @@
 		"selfPaced": "false",
 		"nextCourseID": "789",
 		"sections": 3,
-		"programID": "9"
+		"programID": "9",
+		"StartDate" : "2019-09-18",
+    	"EndDate": "2019-09-25",
 	},
 	{
 		"$title":"Basic Lockpicking",
@@ -35,5 +39,16 @@
 		"categories": ["beginner"],
 		"sections": 2,
 		"selfPaced": "true"
+	},
+	{
+		"$title":"Javascript Program",
+		"$price":"180.00",
+		"$id": "9",
+		"$link": "www.google.com",
+		"image_link": "https://news.harvard.edu/wp-content/uploads/2012/05/edx_logo_col_rgb_final.jpg",
+		"description": "Test Description",
+		"categories": ["program"],
+		"courseIDs": ["456", "789"],
+		"courseNames": ["Intro to Javascript", "Intermediate Javascript"]
 	}
 ]
