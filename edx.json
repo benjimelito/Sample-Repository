@@ -34,6 +34,6 @@
 		"description": "Test Description",
 		"categories": ["beginner"],
 		"sections": 2,
-		"selfPaced": "true",
-	},
+		"selfPaced": "true"
+	}
 ]
