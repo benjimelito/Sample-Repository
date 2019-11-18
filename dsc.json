@@ -1,0 +1,38 @@
+[
+	{
+		"$title":"Shave",
+		"$price":"25.99",
+		"$id": "123",
+		"$link": "https://www.dollarshaveclub.com/our-products/shave",
+		"image_link": "https://dsc-cms.imgix.net/v1/qpbrd0hcmuyw/5nc4wCjsU8IUg64QiGm2cC/a54f4524f7db2043abc940869c495fe3/new-shave.png",
+		"description": "Dr. Carver returns shaving to the delightful experience it was meant to be. The exclusive formulas are enriched with gentle botanicals and premium extracts to ensure your satisfaction every step of the way.",
+		"categories": ["shave"]
+	},
+	{
+		"$title":"Shower",
+		"$price":"28.99",
+		"$id": "456",
+		"$link": "https://www.dollarshaveclub.com/our-products/clean",
+		"image_link": "https://dsc-cms.imgix.net/v1/qpbrd0hcmuyw/7wuqhrbx5uLGheZl66XCe6/df1492a2a20336c674b479ab8fa24755/new-clean.png",
+		"description": "Shower time is you time. Get more than just clean with products that nourish your body and stimulate your mind. Wanderer’s formulas gently cleanse the body while nature-inspired scents replenish your spirit. Any shower can clean you. Only Wanderer can transport you.",
+		"categories": ["shower"]
+	},
+	{
+		"$title":"Deodorant and Wipes",
+		"$price":"35.00",
+		"$id": "789",
+		"$link": "https://www.dollarshaveclub.com/our-products/deodorant-and-wipes",
+		"image_link": "https://dsc-cms.imgix.net/v1/qpbrd0hcmuyw/7oYb3F7flPi7elERqXBxGG/d7bd83d70a7adae27006e61d34160611/new-deodorants-and-wipes.png",
+		"description": "Our Groundskeeper products go where others fear to tread. They transform the body’s hot spots and no man’s lands into calm, cool neutral zones.",
+		"categories": ["deoorant"]
+	},
+	{
+		"$title":"Oral Care",
+		"$price":"32.75",
+		"$id": "101",
+		"$link": "https://www.dollarshaveclub.com/our-products/oral-care",
+		"image_link": "https://dsc-cms.imgix.net/v1/qpbrd0hcmuyw/3bpJISLpM2YjNFvih3AkPE/646efc7cd0a2a36a36b06771bd71d276/SUPERBA-ORALCARE-US.png",
+		"description": "The powerful flavors and invigorating sensations of Superba! are here to unleash your confidence. So go ahead, smile. Open up to the possibilities, and share your brilliance with the world.",
+		"categories": ["oral"]
+	}
+]
