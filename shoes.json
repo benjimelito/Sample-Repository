@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Brooks Launch 7 Running Shoe (Men's)",
+    "id": "045112616",
+    "sku": "045112616",
+    "link": "https://www.shoes.com/brooks-launch-7-running-shoe/883700/1979285",
+    "image_link": "https://www.shoes.com/pi/brook/lg/brook842667_474868_lg.jpg",
+    "price": "79.50",
+    "description": "Streamlined yet cushioned, the Brooks Launch 7 Running Shoe hits the sweet spot between a race flat and a standard trainer.",
+    "categories": ["Trainers", "Brooks", "Men's"]
+  },
+  {
+    "title": "Skechers GOwalk Joy Slip-On Shoe (Women's)",
+    "id": "577830049",
+    "sku": "577830049",
+    "link": "https://www.shoes.com/skechers-gowalk-joy-slip-on-shoe/826340/1807398",
+    "image_link": "https://www.shoes.com/pi/caler/lg/caler885136_532955_lg.jpg",
+    "price": "89.50",
+    "description": "Rediscover the joy of walking in total comfort with the Skechers GOwalk Joy™ Slip-On Shoe.",
+    "categories": ["Women's", "Casual", "Sketchers"]
+  },
+  {
+    "title": "Rocky 11\" GORE-TEX Socks 8011 (Men's)",
+    "id": "589300010",
+    "sku": "589300010",
+    "link": "https://www.shoes.com/rocky-11-gore-tex-socks-8011/675319/1382829",
+    "image_link": "https://www.shoes.com/pi/icebr/lg/icebr840301_280522_lg.jpg",
+    "price": "54.50",
+    "description": "The outer layer on these 11\" socks is responsible for delivering abrasion resistance, which allows these socks to be long lasting",
+    "categories": ["Men's", "Socks", "GORE-TEX"]
+  },
+  {
+    "title": "New Balance 608v5 Trainer (Women's)",
+    "id": "173690053",
+    "sku": "173690053",
+    "link": "https://www.shoes.com/new-balance-608v5-trainer/857431/1930198",
+    "image_link": "https://www.shoes.com/pi/newba/lg/newba791516_75741_lg.jpg",
+    "price": "52.95",
+    "description": "Whether you're at the gym or on the track, the New Balance 608v5 Trainer will have you covered.",
+    "categories": ["Women's", "Trainer's", "New Balance"]
+  },
+  {
+    "title": "The North Face Recon Squash Backpack (Children's)",
+    "id": "689860003",
+    "sku": "689860003",
+    "link": "https://www.shoes.com/the-north-face-recon-squash-backpack/838837/1952045",
+    "image_link": "https://m.shoes.com/pi/theno/jb/theno838837_522316_jb.jpg",
+    "price": "79.50",
+    "description": "Built to mirror the larger adult Recon pack, The North Face Recon Squash Backpack is roughly half the size and mirrors the same aesthetics.",
+    "categories": ["Children's", "North Face", "Backpacks"]
+  }
+]
