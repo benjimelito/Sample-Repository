@@ -10,6 +10,26 @@
     "categories": ["Trainers", "Brooks", "Men's"]
   },
   {
+    "title": "Brooks Addiction Walker V-Strap 2 (Men's)",
+    "id": "1988249",
+    "sku": "1988249",
+    "link": "https://www.shoes.com/brooks-addiction-walker-v-strap-2/876773/1988249",
+    "image_link": "https://www.shoes.com/pi/prope/lg/prope811194_222885_lg.jpg",
+    "price": "129.95",
+    "description": "Slip-resistant. Supportive. Skips the laces.",
+    "categories": ["Velcro", "Brooks", "Men's"]
+  },
+  {
+    "title": "Brooks Launch 6 Running Shoe (Women's)",
+    "id": "1915957",
+    "sku": "1915957",
+    "link": "https://www.shoes.com/brooks-launch-6-running-shoe/862486/1915957",
+    "image_link": "https://www.shoes.com/pi/brook/lg/brook858539_504713_lg.jpg",
+    "price": "66.95",
+    "description": "The Brooks Launch 6 Running Shoe is built to be springy and fast, with zero distractions. Designed for quick transitions from heel to toe thanks to the Midfoot Transition Zone and our BioMoGO DNA midsole cushioning provides a springy feel to get the jump on other runners.",
+    "categories": ["Trainers", "Brooks", "Women's"]
+  },
+  {
     "title": "Skechers GOwalk Joy Slip-On Shoe (Women's)",
     "id": "577830049",
     "sku": "577830049",
@@ -18,6 +38,26 @@
     "price": "89.50",
     "description": "Rediscover the joy of walking in total comfort with the Skechers GOwalk Joy™ Slip-On Shoe.",
     "categories": ["Women's", "Casual", "Sketchers"]
+  },
+  {
+    "title": "Skechers Relaxed Fit Creston Moseco Loafer (Men's)",
+    "id": "1847357",
+    "sku": "1847357",
+    "link": "https://www.shoes.com/skechers-relaxed-fit-creston-moseco-loafer/830705/1847357",
+    "image_link": "https://www.shoes.com/pi/skech/lg/skech890167_63400_lg.jpg",
+    "price": "69.95",
+    "description": "Canvas means comfort and laid-back cool style in the SKECHERS Relaxed Fit®: Creston - Moseco Loafer.",
+    "categories": ["Men's", "Casual", "Sketchers"]
+  },
+  {
+    "title": "Skechers Relaxed Fit Expended Seveno Slip-On (Men's)",
+    "id": "1954327",
+    "sku": "1954327",
+    "link": "https://www.shoes.com/skechers-relaxed-fit-expended-seveno-slip-on/875268/1954327",
+    "image_link": "https://www.shoes.com/pi/ariat/lg/ariat874457_237103_lg.jpg",
+    "price": "79.95",
+    "description": "A versatile casual favorite look gets even more comfortable with the SKECHERS Relaxed Fit Expended Seveno Slip-On.",
+    "categories": ["Men's", "Casual", "Sketchers"]
   },
   {
     "title": "Rocky 11\" GORE-TEX Socks 8011 (Men's)",
@@ -37,6 +77,26 @@
     "image_link": "https://www.shoes.com/pi/newba/lg/newba791516_75741_lg.jpg",
     "price": "52.95",
     "description": "Whether you're at the gym or on the track, the New Balance 608v5 Trainer will have you covered.",
+    "categories": ["Women's", "Trainer's", "New Balance"]
+  },
+  {
+    "title": "New Balance Fresh Foam Vero Racer Running Shoe (Men's)",
+    "id": "1946923",
+    "sku": "1946923",
+    "link": "https://www.shoes.com/new-balance-fresh-foam-vero-racer-running-shoe/872732/1946923",
+    "image_link": "https://cdn-us-ec.yottaa.net/58f9061e312e58075d8519a8/o~f_webp/v~4b.ba8.0.0/https://www.shoes.com/pi/newba/jb/newba872732_393214_jb.jpg",
+    "price": "39.95",
+    "description": "Clock your miles wearing the New Balance Fresh Foam Vero Racer Running Shoe.",
+    "categories": ["Men's", "Trainer's", "New Balance"]
+  },
+  {
+    "title": "New Balance 1340v3 Running Shoe (Women's)",
+    "id": "1822103",
+    "sku": "1822103",
+    "link": "https://www.shoes.com/new-balance-1340v3-running-shoe/831539/1822103",
+    "image_link": "https://m.shoes.com/pi/newba/jb/newba831539_453898_jb.jpg",
+    "price": "68.95",
+    "description": "Featuring leading-edge midsole technologies, the 1340v3 Running Shoe is among New Balance's most supportive footwear options.",
     "categories": ["Women's", "Trainer's", "New Balance"]
   },
   {
