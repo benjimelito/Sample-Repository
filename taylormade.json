@@ -1,0 +1,47 @@
+[
+  {
+    "$title":"P790 Irons",
+    "$price":"1,399.99",
+    "$id": "123",
+    "$link": "https://www.taylormadegolf.com/P790-Irons/DW-AL464.html",
+    "image_link": "https://www.taylormadegolf.com/on/demandware.static/-/Sites-tmag-master-catalog/default/v1585815069086/zoom/AL464_zoom_D.jpg",
+    "description": "P790 irons pack powerful performance into a clean, classic design to deliver breakthrough distance in a players iron.",
+    "categories": ["Right Hand", "Irons", "Men's"]
+  },
+  {
+    "$title":"SIM Max Driver",
+    "$price":"499.99",
+    "$id": "456",
+    "$link": "https://www.taylormadegolf.com/SIM-Max-Driver/DW-JJI27.html",
+    "image_link": "https://www.taylormadegolf.com/on/demandware.static/-/Sites-tmag-master-catalog/default/v1585815069086/zoom/JJI27_zoom_D.jpg",
+    "description": "The SIM & SIM Max Drivers offer new shape for optimized aerodynamics and forgiveness.",
+    "categories": ["Left Hand", "Drivers", "Men's"]
+  },
+  {
+    "$title":"SIM Max Women's Driver",
+    "$price":"499.99",
+    "$id": "789",
+    "$link": "https://www.taylormadegolf.com/SIM-Max-Women%27s-Driver/DW-JJI29.html",
+    "image_link": "https://www.taylormadegolf.com/on/demandware.static/-/Sites-tmag-master-catalog/default/v1585815069086/zoom/JJI29_zoom_D.jpg",
+    "description": "The SIM & SIM Max Drivers offer new shape for optimized aerodynamics and forgiveness.",
+    "categories": ["Women's", "Drivers", "Right Hand"]
+  },
+  {
+    "$title":"M2 Fairway Wood",
+    "$price":"179.99",
+    "$id": "101",
+    "$link": "https://www.taylormadegolf.com/M2-Fairway-Wood/DW-WZ602.html",
+    "image_link": "https://www.taylormadegolf.com/on/demandware.static/-/Sites-tmag-master-catalog/default/v1585815069086/zoom/WZ602_zoom_D.jpg",
+    "description": "TaylorMade M2 Fairway Wood – Better Everything: TaylorMade's first application of Inverted Cone Technology in a fairway wood",
+    "categories": ["Woods", "Men's", "Left Hand"]
+  },
+    {
+    "$title":"SIM Max OS Women's Irons",
+    "$price":"999.99",
+    "$id": "101",
+    "$link": "https://www.taylormadegolf.com/SIM-Max-OS-Women%27s-Irons/DW-AL484.html",
+    "image_link": "https://www.taylormadegolf.com/on/demandware.static/-/Sites-tmag-master-catalog/default/v1585815069086/zoom/AL484_zoom_D.jpg",
+    "description": "Engineers progressively positioned ICT towards the toe in both SIM Max and SIM Max OS to generate a draw bias in the longer irons",
+    "categories": ["Women's", "Irons", "Right Hand"]
+  }
+]
