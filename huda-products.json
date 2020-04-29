@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Life Liner Duo Pencil & Liquid Eyeliner",
+    "id": "045112616",
+    "sku": "045112616",
+    "description": "The ultimate lifeproof, dual-ended eyeliner with a liquid tip one side and pencil on the other. Long-lasting, waterproof, smudge proof and fade proof.",
+    "link": "https://hudabeauty.com/us/en_US/shop/life-liner-duo-pencil-liquid-eyeliner-HB00321.html",
+    "image_link": "https://hudabeauty.com/dw/image/v2/BCNC_PRD/on/demandware.static/-/Sites-huda-master-catalog/default/dw1bdd0bd8/images/sfra/Kahlana/HB_lifeliner_crop.jpg?sw=1240&sh=1240&sm=fit",
+    "price": 25.00,
+    "categories": ["Eyeliner"]
+  },
+  {
+    "title": "Power Bullet Matte Lipstick",
+    "id": "577830049",
+    "sku": "577830049",
+    "description": "Huda Beauty's highly pigmented Power Bullet Matte Lipstick delivers unparalleled color payoff and unexpected comfort.",
+    "link": "https://hudabeauty.com/us/en_US/shop/power-bullet-matte-lipstick-game-night-HB00241.html",
+    "image_link": "https://hudabeauty.com/dw/image/v2/BCNC_PRD/on/demandware.static/-/Sites-huda-master-catalog/default/dwd6a9a79f/images/sfra/Throwback/ProductShot/3C-Girls-Trip.png?sw=1240&sh=1240&sm=fit",
+    "price": 25.00,
+    "categories": ["Lipstick"]
+  },
+  {
+    "title": "Tantour Tan",
+    "id": "589300010",
+    "sku": "589300010",
+    "description": "This deeply pigmented cream-to-powder bronzer gives you a natural bronzed look or a dramatic contour as you layer and build.",
+    "link": "https://hudabeauty.com/us/en_US/shop/shop/tantour-light-HB00282.html",
+    "image_link": "https://hudabeauty.com/dw/image/v2/BCNC_PRD/on/demandware.static/-/Sites-huda-master-catalog/default/dwc3de0c2e/images/sfra/HB00281M/Textures/2_Tantour_Texture_Light.png?sw=1240&sh=1240&sm=fit",
+    "price": 30.00,
+    "categories": ["Makeup"]
+  },
+  {
+    "title": "The New Nude Eyeshadow Palette",
+    "id": "173690053",
+    "sku": "173690053",
+    "description": "Redefining nude for a 'New Nude', the New Nude Palette brings together 18 insanely pigmented shades for infinite possibilities to flatter any skin tone.",
+    "link": "https://hudabeauty.com/us/en_US/shop/the-new-nude-eyeshadow-palette-HB00065.html",
+    "image_link": "https://hudabeauty.com/dw/image/v2/BCNC_PRD/on/demandware.static/-/Sites-huda-master-catalog/default/dwa3fdeda9/images/The-New-Nude/HB_New_Nude_swatch.jpg?sw=1240&sh=1240&sm=fit",
+    "price": 65.00,
+    "categories": ["Makeup"]
+  }
+]
