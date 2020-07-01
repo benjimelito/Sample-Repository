@@ -1,8 +1,8 @@
 [
   {
     "title": "511™ Slim Fit Twill Men's Jeans",
-    "id": "045112616",
-    "sku": "045112616",
+    "id": 045112616,
+    "sku": 045112616,
     "link": "https://www.levi.com/US/en_US/clothing/men/jeans/511-slim-fit-twill-mens-jeans/p/045112616",
     "image_link": "https://lsco.scene7.com/is/image/lsco/Levis/clothing/045110925-front-pdp.jpg?$grid_desktop_bottoms$",
     "price": "79.50",
@@ -11,8 +11,8 @@
   },
   {
     "title": "Hi-Ball Roll Men's Jeans",
-    "id": "577830049",
-    "sku": "577830049",
+    "id": 577830049,
+    "sku": 577830049,
     "link": "https://www.levi.com/US/en_US/apparel/clothing/bottoms/hi-ball-roll-mens-jeans/p/577830049",
     "image_link": "https://lsco.scene7.com/is/image/lsco/Levis/clothing/577830049-front-pdp.jpg?$grid_desktop_bottoms$",
     "price": "89.50",
