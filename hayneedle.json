@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Southern Enterprises Jogan Reclaimed Wood Coffee Table",
+    "id": "045112616",
+    "sku": "045112616",
+    "link": "https://www.hayneedle.com/product/southernenterprisesjoganreclaimedwoodcoffeetable.cfm",
+    "image_link": "https://content.haycdn.com/mgen/master:SEI2680.jpg",
+    "price": "469.00",
+    "description": "Lower shelf made out of engineered wood and reclaimed elm wood",
+    "categories": ["Coffe Tables"]
+  },
+  {
+    "title": "Belham Living Franklin Reclaimed Wood Industrial Coffee Table",
+    "id": "577830049",
+    "sku": "577830049",
+    "link": "https://www.hayneedle.com/product/belham-living-franklin-reclaimed-wood-industrial-coffee-table.cfm",
+    "image_link": "https://content.haycdn.com/mgen/master:EAGM006.jpg",
+    "price": "139.99",
+    "description": "Simple, industrial style",
+    "categories": ["Coffee Tables"]
+  },
+  {
+    "title": "Loloi Farrah FH-05 Indoor Area Rug",
+    "id": "589300010",
+    "sku": "589300010",
+    "link": "https://www.hayneedle.com/product/loloifarrahfh05indoorarearug.cfm",
+    "image_link": "https://content.haycdn.com/mgen/master:LLR1585.jpg",
+    "price": "99.50",
+    "description": "Has colorful southwestern style pattern",
+    "categories": ["Rugs"]
+  },
+  {
+    "title": "Safavieh Casablanca CSB303 Indoor Area Rug",
+    "id": "173690053",
+    "sku": "173690053",
+    "link": "https://www.hayneedle.com/product/safaviehcasablancacsb303indoorarearug.cfm",
+    "image_link": "https://content.haycdn.com/mgen/master:SAV6727.jpg",
+    "price": "123.57",
+    "description": "Gray diamond patterns on beige background",
+    "categories": ["Rugs"]
+  },
+  {
+    "title": "StyleCraft Washed Pine Table Lamp",
+    "id": "689860003",
+    "sku": "689860003",
+    "link": "https://www.hayneedle.com/product/stylecraftwashedpinetablelamp.cfm",
+    "image_link": "https://content.haycdn.com/mgen/master:STL1587.jpg",
+    "price": "95.13",
+    "description": "Tapered beige styrene shade with fringe trim",
+    "categories": ["Lamps"]
+  },
+  {
+    "title": "3R Studios DA9597 Pendant Light",
+    "id": "689860003",
+    "sku": "689860003",
+    "link": "https://www.hayneedle.com/product/3rstudiosda9597pendantlight.cfm",
+    "image_link": "https://content.haycdn.com/mgen/master:CREC101.jpg",
+    "price": "290.90",
+    "description": "Requires one 40-watt bulb (not included)",
+    "categories": ["Lamps"]
+  }
+]
