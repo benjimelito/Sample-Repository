@@ -8,7 +8,7 @@
     "image_link": "https://fabletics-us-cdn.justfab.com/media/images/products/PT1937456-0686/PT1937456-0686-1_998x1498.jpg",
     "categories": ["bottoms"],
     "description": "Your weekend uniform isn't complete without a brushed fleece jogger. Great for after-gym cooldowns and do-nothing days, it's the most comfortable and soft gear you'll ever own.",
-        "metadata": {
+        "extra": {
         "itemOne" : {
             "inner": "hello"
         },
@@ -26,7 +26,7 @@
     "image_link": "https://fabletics-us-cdn.justfab.com/media/images/products/LS1937453-0686/LS1937453-0686-1_998x1498.jpg",
     "categories": ["sweatshirts"],
     "description": "Every man deserves a comfortable hoodie. Superior soft fleece fabric and anti-stink tech effortlessly transition you from working out to hanging out. Bonus: a secure interior phone pocket is hidden in the pouch.",
-    "metadata": {
+    "extra": {
         "itemOne" : {
             "inner": "hello"
         },
@@ -44,7 +44,7 @@
     "image_link": "https://fabletics-us-cdn.justfab.com/media/images/products/BA1935269-5082/BA1935269-5082-1_998x1498.jpg",
     "categories": ["bras"],
     "description": "We've got sports bras down to a science. Just take it from this high-support style, designed with a breathable strappy design in back, adjustable straps, moisture-wicking fabric and an all-way stretch construction.",
-    "metadata": {
+    "extra": {
         "itemOne" : {
             "inner": "hello"
         },
@@ -62,7 +62,7 @@
     "image_link": "https://fabletics-us-cdn.justfab.com/media/images/products/TK1934860-0584/TK1934860-0584-1_998x1498.jpg",
     "categories": ["tops"],
     "description": "Get it twisted (in a good way) in this workout-ready crop made with lightweight, cooling fabric and a twisted silhouette.",
-    "metadata": {
+    "extra": {
         "itemOne" : {
             "inner": "hello"
         },
