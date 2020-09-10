@@ -7,7 +7,15 @@
     "link": "https://www.fabletics.com/products/THE-POSTGAME-JOGGER-PT1937456-0686",
     "image_link": "https://fabletics-us-cdn.justfab.com/media/images/products/PT1937456-0686/PT1937456-0686-1_998x1498.jpg",
     "categories": ["bottoms"],
-    "description": "Your weekend uniform isn't complete without a brushed fleece jogger. Great for after-gym cooldowns and do-nothing days, it's the most comfortable and soft gear you'll ever own."
+    "description": "Your weekend uniform isn't complete without a brushed fleece jogger. Great for after-gym cooldowns and do-nothing days, it's the most comfortable and soft gear you'll ever own.",
+        "metadata": {
+        "itemOne" : {
+            "inner": "hello"
+        },
+        "itemTwo" : {
+            "inner": "yo"
+        }
+    }
   },
   {
     "title":"The Postgame Hoodie",
@@ -35,7 +43,15 @@
     "link": "https://www.fabletics.com/products/BELLE-HIGH-IMPACT-SPORTS-BRA-BA1935269-5082",
     "image_link": "https://fabletics-us-cdn.justfab.com/media/images/products/BA1935269-5082/BA1935269-5082-1_998x1498.jpg",
     "categories": ["bras"],
-    "description": "We've got sports bras down to a science. Just take it from this high-support style, designed with a breathable strappy design in back, adjustable straps, moisture-wicking fabric and an all-way stretch construction."
+    "description": "We've got sports bras down to a science. Just take it from this high-support style, designed with a breathable strappy design in back, adjustable straps, moisture-wicking fabric and an all-way stretch construction.",
+    "metadata": {
+        "itemOne" : {
+            "inner": "hello"
+        },
+        "itemTwo" : {
+            "inner": "yo"
+        }
+    }
   },
   {
     "title":"Powertouch Light Front Twist Tank",
@@ -45,6 +61,14 @@
     "link": "https://www.fabletics.com/products/POWERTOUCH-LIGHT-FRONT-TWIST-TANK-TK1934860-0584",
     "image_link": "https://fabletics-us-cdn.justfab.com/media/images/products/TK1934860-0584/TK1934860-0584-1_998x1498.jpg",
     "categories": ["tops"],
-    "description": "Get it twisted (in a good way) in this workout-ready crop made with lightweight, cooling fabric and a twisted silhouette."
+    "description": "Get it twisted (in a good way) in this workout-ready crop made with lightweight, cooling fabric and a twisted silhouette.",
+    "metadata": {
+        "itemOne" : {
+            "inner": "hello"
+        },
+        "itemTwo" : {
+            "inner": "yo"
+        }
+    }
   }
 ]
