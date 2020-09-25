@@ -1,0 +1,80 @@
+[
+   {
+      "id":"BBBC-362-375300",
+      "sku":"BBBC-362",
+      "part id":"532904",
+      "title":"Nikon Coolpix P600 Charger Replacement (Wall + Car Cord)",
+      "url":"https:\/\/www.betterbatt.com.au\/s\/battery-charger\/nikon\/coolpix-p600\/bbbc-362\/",
+      "description":"Nikon Coolpix P600 Charger Replacement (Wall + Car Cord)",
+      "price":"19.1",
+      "image_link":"https:\/\/www.betterbatt.com.au\/media\/catalog\/product\/cache\/f71c0c9054fe2b860b1e71fad5ee6aa6\/b\/e\/better-batt-bbbc-362-1.jpg",
+      "categories":"Battery Charger",
+      "inventory_quantity":"98",
+      "related_id":[
+         "BBCB-362-375300",
+         "BBCB-366-379104"
+      ]
+   },
+   {
+      "id":"BBCB-362-375300",
+      "sku":"BBCB-362",
+      "part id":"532904",
+      "title":"Nikon Coolpix P600 Battery Replacement",
+      "url":"https:\/\/www.betterbatt.com.au\/s\/digital-camera-battery\/nikon\/coolpix-p600\/bbcb-362\/",
+      "description":"Nikon Coolpix P600 Battery Replacement",
+      "price":"16.97",
+      "image_link":"https:\/\/www.betterbatt.com.au\/media\/catalog\/product\/cache\/f71c0c9054fe2b860b1e71fad5ee6aa6\/b\/e\/better-batt-bbcb-362-1.jpg",
+      "categories":"Digital Camera Battery",
+      "inventory_quantity":"190",
+      "related_id":[
+         "BBBC-362-375300",
+         "BBCB-366-379104"
+      ]
+   },
+   {
+      "id":"BBCB-366-379104",
+      "sku":"BBCB-366",
+      "part id":"532904",
+      "title":"Nikon Coolpix P600 Battery Replacement",
+      "url":"https:\/\/www.betterbatt.com.au\/s\/digital-camera-battery\/nikon\/coolpix-p600\/bbcb-366\/",
+      "description":"Nikon Coolpix P600 Battery Replacement",
+      "price":"33.35",
+      "image_link":"https:\/\/www.betterbatt.com.au\/media\/catalog\/product\/cache\/f71c0c9054fe2b860b1e71fad5ee6aa6\/b\/e\/better-batt-bbcb-366-1.jpg",
+      "categories":"Digital Camera Battery",
+      "inventory_quantity":"200",
+      "related_id":[
+         "BBCB-362-375300",
+         "BBBC-362-375300"
+      ]
+   },
+   {
+      "id":"BBCB-375-379571",
+      "sku":"BBCB-375",
+      "part id":"481307",
+      "title":"Canon PowerShot N100 Battery Replacement",
+      "url":"https:\/\/www.betterbatt.com.au\/s\/digital-camera-battery\/canon\/powershot-n100\/bbcb-375\/",
+      "description":"Canon PowerShot N100 Battery Replacement",
+      "price":"42.5",
+      "image_link":"https:\/\/www.betterbatt.com.au\/media\/catalog\/product\/cache\/f71c0c9054fe2b860b1e71fad5ee6aa6\/b\/e\/better-batt-bbcb-375-1.jpg",
+      "categories":"Digital Camera Battery",
+      "inventory_quantity":"6",
+      "related_id":[
+         "BBBC-375-379571"
+      ]
+   },
+   {
+      "id":"BBCB-40-327215",
+      "sku":"BBCB-40",
+      "part id":"533563",
+      "title":"Olympus Camedia C-70 Zoom Battery Replacement",
+      "url":"https:\/\/www.betterbatt.com.au\/s\/digital-camera-battery\/olympus\/camedia-c-70-zoom\/bbcb-40\/",
+      "description":"Olympus Camedia C-70 Zoom Battery Replacement",
+      "price":"13.46",
+      "image_link":"https:\/\/www.betterbatt.com.au\/media\/catalog\/product\/cache\/f71c0c9054fe2b860b1e71fad5ee6aa6\/b\/e\/better-batt-bbcb-40-1.jpg",
+      "categories":"Digital Camera Battery",
+      "inventory_quantity":"29",
+      "related_id":[
+         "BBBC-40-327215"
+      ]
+   }
+]
