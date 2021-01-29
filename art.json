@@ -8,7 +8,7 @@
     "price": "18.00",
     "description": "Sunrise over Beach in Cancun is a photograph that captures a beautiful sunrise and waves from a beach in Cancun, Mexico.",
     "categories": ["Beaches, Photogrpahy"],
-    "published": "true"
+    "$published": "true"
   },
   {
     "title": "Morning Visit",
@@ -19,7 +19,7 @@
     "price": "19.99",
     "description": "Morning Visit by Marvin Pelkey",
     "categories": ["Beaches, Photogrpahy"],
-    "published": "false"
+    "$published": "false"
   },
   {
     "title": "Lake Josephine with Grinnell Glacier and the Continental Divide",
@@ -30,7 +30,7 @@
     "price": "15.00",
     "description": "This photographic print leverages sophisticated digital technology to capture a level of detail that is absolutely stunning.",
     "categories": ["National Parks", "Photogrpahy"],
-    "published": "false"
+    "$published": "false"
   },
   {
     "title": "Sunset over Badlands National Park",
@@ -41,7 +41,7 @@
     "price": "15.00",
     "description": "The high-quality archival paper, a favorite choice among professional photographers, has a refined luster quality.",
     "categories": ["Photogrpahy", "National Parks"],
-    "published": "true"
+    "$published": "true"
   },
   {
     "title": "The Sun, Stars and Moon",
@@ -52,7 +52,7 @@
     "price": "59.00",
     "description": "A member of the versatile family of art prints, this high-quality reproduction represents the best of both worlds: quality and affordability.",
     "categories": ["Prints"],
-    "published": "false"
+    "$published": "false"
   },
   {
     "title": "Pocomania",
@@ -63,6 +63,6 @@
     "price": "22.00",
     "description": "This giclée print delivers a vivid image with maximum color accuracy and exceptional resolution.",
     "categories": ["Prints", "Giclee"],
-    "published": "false"
+    "$published": "false"
   }
 ]
