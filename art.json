@@ -37,7 +37,8 @@
     "image_link": "https://imgc.artprintimages.com/img/print/sunset-over-badlands-national-park-sd_u-l-pxrvhe0.jpg?h=281&p=0&w=281",
     "price": "15.00",
     "description": "The high-quality archival paper, a favorite choice among professional photographers, has a refined luster quality.",
-    "categories": ["Photogrpahy", "National Parks"]
+    "categories": ["Photogrpahy", "National Parks"],
+    "published": "true"
   },
   {
     "title": "The Sun, Stars and Moon",
@@ -47,7 +48,8 @@
     "image_link": "https://imgc.artprintimages.com/img/print/the-sun-stars-and-moon_u-l-q1gubwo0.jpg?h=281&p=0&w=281",
     "price": "59.00",
     "description": "A member of the versatile family of art prints, this high-quality reproduction represents the best of both worlds: quality and affordability.",
-    "categories": ["Prints"]
+    "categories": ["Prints"],
+    "published": "false"
   },
   {
     "title": "Pocomania",
@@ -57,6 +59,7 @@
     "image_link": "https://imgc.artprintimages.com/img/print/pocomania_u-l-q1e1k490.jpg?h=281&p=0&w=281",
     "price": "22.00",
     "description": "This giclée print delivers a vivid image with maximum color accuracy and exceptional resolution.",
-    "categories": ["Prints", "Giclee"]
+    "categories": ["Prints", "Giclee"],
+    "published": "false"
   }
 ]
