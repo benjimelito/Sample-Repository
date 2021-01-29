@@ -18,7 +18,8 @@
     "image_link": "https://imgc.artprintimages.com/img/print/morning-visit_u-l-q1betk60.jpg?h=281&p=0&w=281",
     "price": "19.99",
     "description": "Morning Visit by Marvin Pelkey",
-    "categories": ["Beaches, Photogrpahy"]
+    "categories": ["Beaches, Photogrpahy"],
+    "published": "false"
   },
   {
     "title": "Lake Josephine with Grinnell Glacier and the Continental Divide",
@@ -28,7 +29,8 @@
     "image_link": "https://imgc.artprintimages.com/img/print/lake-josephine-with-grinnell-glacier-and-the-continental-divide-glacier-national-park-montana_u-l-pxpqmc0.jpg?h=281&p=0&w=281",
     "price": "15.00",
     "description": "This photographic print leverages sophisticated digital technology to capture a level of detail that is absolutely stunning.",
-    "categories": ["National Parks", "Photogrpahy"]
+    "categories": ["National Parks", "Photogrpahy"],
+    "published": "false"
   },
   {
     "title": "Sunset over Badlands National Park",
