@@ -7,7 +7,8 @@
     "image_link": "https://imgc.artprintimages.com/img/print/sunrise-over-beach-in-cancun_u-l-q103s350.jpg?h=281&p=0&w=281",
     "price": "18.00",
     "description": "Sunrise over Beach in Cancun is a photograph that captures a beautiful sunrise and waves from a beach in Cancun, Mexico.",
-    "categories": ["Beaches, Photogrpahy"]
+    "categories": ["Beaches, Photogrpahy"],
+    "published": "true"
   },
   {
     "title": "Morning Visit",
