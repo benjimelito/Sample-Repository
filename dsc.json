@@ -1,6 +1,7 @@
 [
 	{
 		"$title":"Shave",
+		"$published": false,	
 		"$price":"25.99",
 		"$id": "123",
 		"$link": "https://www.dollarshaveclub.com/our-products/shave",
@@ -10,6 +11,7 @@
 	},
 	{
 		"$title":"Shower",
+		"$published": false,
 		"$price":"28.99",
 		"$id": "456",
 		"$link": "https://www.dollarshaveclub.com/our-products/clean",
@@ -19,6 +21,7 @@
 	},
 	{
 		"$title":"Deodorant and Wipes",
+		"$published": false,
 		"$price":"35.00",
 		"$id": "789",
 		"$link": "https://www.dollarshaveclub.com/our-products/deodorant-and-wipes",
@@ -28,6 +31,7 @@
 	},
 	{
 		"$title":"Oral Care",
+		"$published": false,
 		"$price":"32.75",
 		"$id": "101",
 		"$link": "https://www.dollarshaveclub.com/our-products/oral-care",
