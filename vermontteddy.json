@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Buddy Bunny",
+    "id": "abcdefg123",
+    "sku": "045112616",
+    "link": "https://www.vermontteddybear.com/wildlife-and-fantasy/bunny/15-inch-buddy-bunny/VTB-21961-15.html",
+    "image_link": "https://www.vermontteddybear.com/on/demandware.static/-/Sites-master-catalog-vtb/default/dw1334eac6/images/VTB/vtb-21961-15-15buddybunny-kbkf15013_feature1_20180911_0906.jpg",
+    "price": "79.50",
+    "description": "Bunny's full height is 4'",
+    "categories": ["Fantasy", "Wildlife"]
+  },
+  {
+    "title": "Hoodie Footie Bear",
+    "id": 577830049,
+    "sku": 577830049,
+    "link": "https://www.vermontteddybear.com/teddy-bears/classic-teddy-bears/15-inch-hoodie-footie-bear-pink/VTB-KT00459.html",
+    "image_link": "https://www.vermontteddybear.com/on/demandware.static/-/Sites-master-catalog-vtb/default/dw22c82ecc/images/VTB/vtb-kt00459-15hoodiefootiebearpink-kk0015861m_keyword_20150804_1440.jpg",
+    "price": "89.50",
+    "description": "Cute Teddy Bear",
+    "categories": ["Classic Teddy Bears"]
+  },
+  {
+    "title": "World's Softest Bear",
+    "id": "173690053",
+    "sku": "173690053",
+    "link": "https://www.vermontteddybear.com/baby-and-kids/worlds-softest-teddy-bears/20-inch-worlds-softest-bear/VTB-KT00339.html",
+    "image_link": "https://www.vermontteddybear.com/on/demandware.static/-/Sites-master-catalog-vtb/default/dw8dcf3fad/images/VTB/vtb-22731-20worldssoftestbear-abfp20001_keyword_20151207_1501.jpg",
+    "price": "25.00",
+    "description": "World's softest collection",
+    "categories": ["Classic Teddy Bears"]
+   }
+]
