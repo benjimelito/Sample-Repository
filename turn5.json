@@ -1,0 +1,42 @@
+[
+  {
+    "title": "ReadyLIFT 3-Inch Front Leveling Kit",
+    "id": "045112616",
+    "sku": "045112616",
+    "link": "https://www.americantrucks.com/readylift-ranger-3-inch-front-leveling-kit-66-2930.html",
+    "image_link": "https://turn5.scene7.com/is/image/Turn5/FR2364?wid=250&hei=187&op_usm=0.8,1,10,0",
+    "price": "209.95",
+    "description": "Front Leveling Kit",
+    "categories": ["Trucks", "Leveling Kits"]
+  },
+  {
+    "title": "Roll Bar",
+    "id": "589300010",
+    "sku": "589300010",
+    "link": "https://www.americantrucks.com/black-horse-off-road-ranger-roll-bar-glrb-07b.html",
+    "image_link": "https://turn5.scene7.com/is/image/Turn5/FR4225?wid=810&hei=608&op_usm=0.8,1,10,0",
+    "price": "731.99",
+    "description": "Roll Bar for 19-20 Ranger",
+    "categories": ["Trucks", "Roll Bars"]
+  },
+  {
+    "title": "DECKED Truck Bed Storage System",
+    "id": "173690053",
+    "sku": "173690053",
+    "link": "https://www.americantrucks.com/decked-ranger-truck-bed-storage-system-fr4146.html",
+    "image_link": "https://turn5.scene7.com/is/image/Turn5/FR4146?wid=250&hei=187&op_usm=0.8,1,10,0",
+    "price": "1,349.99",
+    "description": "Versatile Truck Bed Storage System",
+    "categories": ["Trucks", "Storage"]
+  },
+  {
+    "title": "Eibach Pro-Truck Lift System; Stage 1",
+    "id": "689860003",
+    "sku": "689860003",
+    "link": "https://www.americantrucks.com/eibach-ranger-pro-truck-lift-system-stage-1-e80-35-048-02-22.html",
+    "image_link": "https://turn5.scene7.com/is/image/Turn5/FR5058?wid=810&hei=608&op_usm=0.8,1,10,0",
+    "price": "569.00",
+    "description": "Outstanding 2.75-Inch Suspension Lift Kit",
+    "categories": ["Trucks", "Suspension", "Kits"]
+  }
+]
