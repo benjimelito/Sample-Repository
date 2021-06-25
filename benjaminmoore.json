@@ -1,0 +1,38 @@
+[
+  {
+    "$title":"Fresh Start® High-Hiding All Purpose Primer Gallon White",
+    "$price":"39.99",
+    "$id": "123",
+    "$link": "https://store.benjaminmoore.com/storefront/us/en/coating/interior-exterior-primers/benjamin-moore/fresh-start-high-hiding-all-purpose-primer/fresh-start/p/0046",
+    "image_link": "https://media.benjaminmoore.com/WebServices/prod/assets/production/images/IA_pri_0046/image_197x193.content_en_US.png",
+    "description": "All Purpose Primer",
+    "categories": ["Primer"]
+  },
+  {
+    "$title":"ARBORCOAT Exterior Stain - Solid",
+    "$price":"57.99",
+    "$id": "456",
+    "$link": "https://store.benjaminmoore.com/storefront/us/en/coating/exterior-stains/benjamin-moore/arborcoat-exterior-stain/arborcoat/p/0640",
+    "image_link": "https://media.benjaminmoore.com/WebServices/prod/assets/production/images/IA_pri_0640/image_197x193.content_en_US.png",
+    "description": "Exterior Stain",
+    "categories": ["Stain"]
+  },
+  {
+    "$title":"Aura Waterborne Interior Paint - Matte",
+    "$price":"83.99",
+    "$id": "789",
+    "$link": "https://media.benjaminmoore.com/WebServices/prod/assets/production/images/IA_pri_0522/image_197x193.content_en_US.png",
+    "image_link": "https://media.benjaminmoore.com/WebServices/prod/assets/production/images/IA_pri_0522/image_197x193.content_en_US.png",
+    "description": "Interior Paint - Matte",
+    "categories": ["Matte"]
+  },
+  {
+    "$title":"Regal Select Waterborne Interior Paint - Flat",
+    "$price":"62.99",
+    "$id": "101",
+    "$link": "https://store.benjaminmoore.com/storefront/us/en/coating/interior-paints/benjamin-moore/regal-select-waterborne-interior-paint/regal/p/0547",
+    "image_link": "https://media.benjaminmoore.com/WebServices/prod/assets/production/images/IA_pri_0547/image_197x193.content_en_US.png",
+    "description": "Interior Paint - Flat",
+    "categories": ["Waterproof"]
+  }
+]
