@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Skinny Gummies",
+    "id": "abcdefg123",
+    "sku": "045112616",
+    "link": "https://skinnyfit.com/products/skinny-gummies",
+    "image_link": "https://images.skinnyfit.io/7COZN4_Q1PcfreHo",
+    "price": "49.95",
+    "description": "The gummy that gets you to your goals! Our delicious apple cider vinegar gummies in tropical berry flavor skip the sour taste of traditional apple cider vinegar without skipping on its benefits to support weight management, help reduce appetite, and promote glowing skin. Contains 30 servings.",
+    "categories": ["Gummies", "Diet"]
+  },
+  {
+    "title": "Super Youth",
+    "id": "577830049",
+    "sku": "577830049",
+    "link": "https://skinnyfit.com/products/super-youth",
+    "image_link": "https://www.melissaanddoug.com/dw/image/v2/BBDH_PRD/on/demandware.static/-/Sites-master-catalog/default/dwf014d475/large/004083_1.jpg?sw=562&sh=570&sm=fit",
+    "price": "79.95",
+    "description": "Look and feel younger with Super Youth Multi-Collagen Peptides! This versatile collagen powder includes 5 collagen types from 4 natural sources to restore youthfulness from the inside out. Includes 58 servings.",
+    "categories": ["Multi-Collagen Peptides"]
+  },
+  {
+    "title": "Detox",
+    "id": "589300010",
+    "sku": "589300010",
+    "link": "https://skinnyfit.com/products/detox",
+    "image_link": "https://images.skinnyfit.io/eMRk9TIENdFfafK8",
+    "price": "69.95",
+    "description": "Slim down, soothe bloating, and boost your energy naturally! Unlike other detoxes, SkinnyFit Detox has NO laxatives and is made with 13 metabolism-boosting superfoods. Includes 28 servings.",
+    "categories": ["Detox"]
+  }
+ ]
